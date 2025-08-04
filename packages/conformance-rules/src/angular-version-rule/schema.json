@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "$id": "angular-version-rule",
+  "title": "example conformance-rule rule checking for a specific Angular version",
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "string"
+    }
+  },
+  "required": ["version"],
+  "additionalProperties": false
+}

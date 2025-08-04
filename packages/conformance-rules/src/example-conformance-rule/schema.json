@@ -1,8 +1,0 @@
-{
-  "$schema": "http://json-schema.org/schema",
-  "$id": "example-conformance-rule",
-  "title": "example-conformance-rule rule configuration",
-  "type": "object",
-  "properties": {},
-  "additionalProperties": false
-}

@@ -15,5 +15,15 @@
         }
       }
     }
-  ]
+  ],
+  "conformance": {
+    "rules": [
+      {
+        "rule": "./packages/conformance-rules/src/angular-version-rule",
+        "options": {
+          "version": "20.1.0"
+        }
+      }
+    ]
+  }
 }
